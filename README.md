@@ -1,2 +1,2 @@
 # hello-world
-This is a tria
+This is a trial
